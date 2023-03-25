@@ -1,4 +1,4 @@
 # MSDNN
-For the QoS prediction paper
+For the paper
 
 We update the codes after accepted
