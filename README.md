@@ -1,4 +1,4 @@
 # MSDNN
 For the paper
 
-We update the codes if accepted
+We update the network implementation if accepted
