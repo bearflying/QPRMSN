@@ -1,4 +1,4 @@
-# MSDNN
+# QPRMSN
 For the paper
 
-We update the network implementation if accepted
+We will update the network implementation if accepted
